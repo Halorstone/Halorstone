@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Halorstone
-- 👀 I’m interested in Game Development 
-- 🌱 I’m currently learning Game Development Engines
+- 👋 Hi, I’m @Rajat Rajnish
+- 👀 I’m interested in Data Analsys/Science 
+- 🌱 I’m currently learning Data Analsys and Data Science
 - 💞️ I’m looking to collaborate on Game Development 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
